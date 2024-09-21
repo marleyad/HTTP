@@ -30,8 +30,8 @@ What is a HTTP header? Give examples of request and response headers you have se
     Response headers: Content-Type, Set-Cookie, Cache-Control
 
 What happens when you type a URL in a browser?
-    1. Using DNS the name of the URL is turned into an IP address
-    2. A request is sent to the IP address
-    3. Server sends a response with a status code (200 if good)
-    4. Browser makes the DOM derived from the HTML, and also gets any other resources needed (CSS, Images, JavaScript, etc...)
-    5. Browser Makes separate HTTP requests for those extra resources and recieves response from the server for each
+    1. Using DNS the name of the URL is turned into an IP address.
+    2. A request is sent to the IP address.
+    3. Server sends a response with a status code (200 if good).
+    4. Browser makes the DOM derived from the HTML, and also gets any other resources needed (CSS, Images, JavaScript, etc...).
+    5. Browser Makes separate HTTP requests for those extra resources and recieves response from the server for each.
