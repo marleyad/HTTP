@@ -4,11 +4,11 @@ What is HTTP?
 
 What is URL?
     Uniform Resource Locator
-    Address for an internet resource
+    Address for an Internet resource
 
 What is DNS? 
     Domain Name System
-    system that takes URLS and transforms them to IP addresses
+    system that takes URLs and transforms them into IP addresses
 
 What is a query string?
     Allows user to pass key-value pairs into the URL
