@@ -21,7 +21,7 @@ What is a HTTP request?
     Request from a user to a server following HTTP protocol
 
 What is a HTTP response?  
-    Response from server to a user follwing HTTP protocol
+    Response from server to a user following HTTP protocol
 
 What is a HTTP header? Give examples of request and response headers you have seen.Provide additional information about the request or the response.
     Headers provide additional information about a request or response.
