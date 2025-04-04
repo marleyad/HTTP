@@ -5,7 +5,7 @@ What is HTTP?
 What is URL?
     Uniform Resource Locator
     Address for an Internet resource
-
+ 
 What is DNS? 
     Domain Name System
     system that takes URLs and transforms them into IP addresses
